@@ -1,1 +1,1 @@
-# noise_QUS1
+# noise_QUS1 - QUS_1 :: Firstly, we generate three waves and subsequently merge them into a single wave. Next, we introduce noise to every point on this wave. Then, we utilize SVD technology to eliminate the noise. Finally, we plot the newly obtained noise-free wave on a graph.
